@@ -1,4 +1,4 @@
-# ESX-Weaponshop (with-ammo-item)
+# ESX-Weaponshop (with-ammo-item) using LUA in GTA V
 
 I added a collection of items for gunshop and blackmarket.
 
